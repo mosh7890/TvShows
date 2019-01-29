@@ -1,0 +1,4 @@
+export const TOGGLE_ACTIVITY = "TOGGLE_ACTIVITY";
+export const TOGGLE_SEARCH = "TOGGLE_SEARCH";
+export const ADD_SHOW = "ADD_SHOW";
+export const SET_CURRENT_SHOW = "SET_CURRENT_SHOW";
